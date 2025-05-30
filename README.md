@@ -1,6 +1,3 @@
-# Logistic-Regression
-Build a binary classifier using Logistic Regression.
-
 # Logistic Regression Classifier - Breast Cancer Dataset
 ## Objective
 Build a binary classifier using Logistic Regression to predict whether a tumor is malignant or benign.
